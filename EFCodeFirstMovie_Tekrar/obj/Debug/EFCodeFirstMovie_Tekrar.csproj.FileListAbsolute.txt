@@ -1,0 +1,16 @@
+C:\Users\burak\OneDrive\Desktop\BilgeAdam\Visiual Studio\EF\Tekrarlar\06.30\EFCodeFirstMovie_Tekrar\EFCodeFirstMovie_Tekrar\bin\Debug\EFCodeFirstMovie_Tekrar.exe.config
+C:\Users\burak\OneDrive\Desktop\BilgeAdam\Visiual Studio\EF\Tekrarlar\06.30\EFCodeFirstMovie_Tekrar\EFCodeFirstMovie_Tekrar\bin\Debug\EFCodeFirstMovie_Tekrar.exe
+C:\Users\burak\OneDrive\Desktop\BilgeAdam\Visiual Studio\EF\Tekrarlar\06.30\EFCodeFirstMovie_Tekrar\EFCodeFirstMovie_Tekrar\bin\Debug\EFCodeFirstMovie_Tekrar.pdb
+C:\Users\burak\OneDrive\Desktop\BilgeAdam\Visiual Studio\EF\Tekrarlar\06.30\EFCodeFirstMovie_Tekrar\EFCodeFirstMovie_Tekrar\bin\Debug\EntityFramework.dll
+C:\Users\burak\OneDrive\Desktop\BilgeAdam\Visiual Studio\EF\Tekrarlar\06.30\EFCodeFirstMovie_Tekrar\EFCodeFirstMovie_Tekrar\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\burak\OneDrive\Desktop\BilgeAdam\Visiual Studio\EF\Tekrarlar\06.30\EFCodeFirstMovie_Tekrar\EFCodeFirstMovie_Tekrar\bin\Debug\EntityFramework.xml
+C:\Users\burak\OneDrive\Desktop\BilgeAdam\Visiual Studio\EF\Tekrarlar\06.30\EFCodeFirstMovie_Tekrar\EFCodeFirstMovie_Tekrar\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\burak\OneDrive\Desktop\BilgeAdam\Visiual Studio\EF\Tekrarlar\06.30\EFCodeFirstMovie_Tekrar\EFCodeFirstMovie_Tekrar\obj\Debug\EFCodeFirstMovie_Tekrar.csproj.AssemblyReference.cache
+C:\Users\burak\OneDrive\Desktop\BilgeAdam\Visiual Studio\EF\Tekrarlar\06.30\EFCodeFirstMovie_Tekrar\EFCodeFirstMovie_Tekrar\obj\Debug\EFCodeFirstMovie_Tekrar.csproj.SuggestedBindingRedirects.cache
+C:\Users\burak\OneDrive\Desktop\BilgeAdam\Visiual Studio\EF\Tekrarlar\06.30\EFCodeFirstMovie_Tekrar\EFCodeFirstMovie_Tekrar\obj\Debug\EFCodeFirstMovie_Tekrar.Form1.resources
+C:\Users\burak\OneDrive\Desktop\BilgeAdam\Visiual Studio\EF\Tekrarlar\06.30\EFCodeFirstMovie_Tekrar\EFCodeFirstMovie_Tekrar\obj\Debug\EFCodeFirstMovie_Tekrar.Properties.Resources.resources
+C:\Users\burak\OneDrive\Desktop\BilgeAdam\Visiual Studio\EF\Tekrarlar\06.30\EFCodeFirstMovie_Tekrar\EFCodeFirstMovie_Tekrar\obj\Debug\EFCodeFirstMovie_Tekrar.csproj.GenerateResource.cache
+C:\Users\burak\OneDrive\Desktop\BilgeAdam\Visiual Studio\EF\Tekrarlar\06.30\EFCodeFirstMovie_Tekrar\EFCodeFirstMovie_Tekrar\obj\Debug\EFCodeFirstMovie_Tekrar.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Desktop\BilgeAdam\Visiual Studio\EF\Tekrarlar\06.30\EFCodeFirstMovie_Tekrar\EFCodeFirstMovie_Tekrar\obj\Debug\EFCodeFirstMovie_Tekrar.csproj.CopyComplete
+C:\Users\burak\OneDrive\Desktop\BilgeAdam\Visiual Studio\EF\Tekrarlar\06.30\EFCodeFirstMovie_Tekrar\EFCodeFirstMovie_Tekrar\obj\Debug\EFCodeFirstMovie_Tekrar.exe
+C:\Users\burak\OneDrive\Desktop\BilgeAdam\Visiual Studio\EF\Tekrarlar\06.30\EFCodeFirstMovie_Tekrar\EFCodeFirstMovie_Tekrar\obj\Debug\EFCodeFirstMovie_Tekrar.pdb
